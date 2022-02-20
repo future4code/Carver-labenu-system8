@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "name": "Amanda Cristina Souza",
+        "email": "AmandaCris@gmail.com",
+        "data_nascimento": "10/03/2002",
+        "turma_id": "",
+        "hobbies": "Faço curso de Inglês"
+    },
+
+    {
+        "id": "2",
+        "name": "Bruno Felipe Cardoso",
+        "email": "BrunoFelipe@gmail.com",
+        "data_nascimento": "16/05/2002",
+        "turma_id": "",
+        "hobbies": "Faço curso de Espanhol"
+    },
+
+    {
+        "id": "3",
+        "name": "Caroline de Castro",
+        "email": "CarolineCastro@gmail.com",
+        "data_nascimento": "25/12/2002",
+        "turma_id": "",
+        "hobbies": "Faço computação"
+    },
+
+    {
+        "id": "4",
+        "name": "Danilo Junior",
+        "email": "DaniloJunior@gmail.com",
+        "data_nascimento": "04/10/2002",
+        "turma_id": "",
+        "hobbies": "Faço Inglês/Espanhol"
+    },
+
+    {
+        "id": "5",
+        "name": "Eduarda da Silva",
+        "email": "Eduarda17@gmail.com",
+        "data_nascimento": "05/10/2002",
+        "turma_id": "",
+        "hobbies": "Estudo"
+    },
+
+    {
+        "id": "6",
+        "name": "Fabricio Camargo da Silva",
+        "email": "Fabricio@gmail.com",
+        "data_nascimento": "16/08/2002",
+        "turma_id": "",
+        "hobbies": "Dançar"
+    },
+
+    {
+        "id": "7",
+        "name": "Gabrielly Oliveira",
+        "email": "GabriellyOliveira@gmail.com",
+        "data_nascimento": "11/05/2002",
+        "turma_id": "",
+        "hobbies": "Fazer Exercícios"
+    },
+
+    {
+        "id": "8",
+        "name": "Hugo Augusto",
+        "email": "Hugoaugusto@gmail.com",
+        "data_nascimento": "22/07/2003",
+        "turma_id": "",
+        "hobbies": "Faço capoeira"
+    },
+
+    {
+        "id": "9",
+        "name": "Iago Cruz de Sousa",
+        "email": "IagoCruz@gmail.com",
+        "data_nascimento": "28/12/2002",
+        "turma_id": "",
+        "hobbies": "Ler livros"
+    },
+
+    {
+        "id": "10",
+        "name": "Joana Victória Leite",
+        "email": "Joanaleite@gmail.com",
+        "data_nascimento": "04/09/2003",
+        "turma_id": "",
+        "hobbies": "Cantar"
+    },
+
+    {
+        "id": "11",
+        "name": "Kamilly Oliveira",
+        "email": "KamillyOliv@gmail.com",
+        "data_nascimento": "10/05/2002",
+        "turma_id": "",
+        "hobbies": "Aula de dança"
+    },
+
+    {
+        "id": "12",
+        "name": "Larissa da Silva",
+        "email": "LarissaSilva@gmail.com",
+        "data_nascimento": "01/03/2002",
+        "turma_id": "",
+        "hobbies": "Faço computação"
+    },
+
+    {
+        "id": "13",
+        "name": "Maria Eduarda de Almeida",
+        "email": "MariaAlmeida@gmail.com",
+        "data_nascimento": "01/03/2002",
+        "turma_id": "",
+        "hobbies": "Faço administração"
+    },
+
+    {
+        "id": "0fe0d579-aa12-4bd4-9a89-5a009eab395d",
+        "name": "Nayara dos Santos Brito",
+        "email": "nayaraSantos@gmail.com",
+        "data_nascimento": "10/05/2002",
+        "turma_id": "",
+        "hobbies": "Dançar"
+    },
+
+    {
+        "id": "0fe0d579-aa12-4bd4-9a89-5a009eab395d",
+        "name": "Nayara dos Santos Brito",
+        "email": "nayaraSantos@gmail.com",
+        "data_nascimento": "10/05/2002",
+        "turma_id": "",
+        "hobbies": "Dançar"
+    },
+
+    {
+        "id": "16",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "17",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "18",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "19",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "20",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "21",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "22",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+        "id": "23",
+        "name": "",
+        "email": "",
+        "data_nascimento": "",
+        "turma_id": "",
+        "hobbies": ""
+    },
+
+    {
+
+    }
+]
